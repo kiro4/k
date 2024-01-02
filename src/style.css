@@ -1,0 +1,9 @@
+.navlink{
+    display: flex;
+    list-style: none;
+}
+.navlink a{
+    text-decoration: none;
+    color: rgb(253, 247, 247);
+    margin-right: 10px;
+}
